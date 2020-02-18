@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/naman14/TimberX.svg?branch=master)](https://travis-ci.org/naman14/TimberX)
+TODO : Drop
+
 
 # TimberX
 Fully featured Material theme music player that works all form factors and uses latest tools
